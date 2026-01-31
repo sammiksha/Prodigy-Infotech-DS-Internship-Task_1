@@ -31,3 +31,5 @@ Improving chart readability and presentation
 Extracting meaningful insights from data
 
 This task helped strengthen my foundational skills in data analysis and visualization, which are essential in data science workflows.
+<img width="1540" height="861" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/b96eb4bf-a850-4844-ae60-60eedf294ff6" />
+
